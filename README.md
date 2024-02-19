@@ -2,6 +2,7 @@
 
 ## Содержание
   #### [1. Тема и целевая аудитория](#1-тема-и-целевая-аудитория)
+  #### [Источники](#источники)
 
 ## 1. Тема и целевая аудитория
 
@@ -12,6 +13,7 @@ Zoom - платформа для видеоконференций.
 - Проведение/просмотр видеоконференции
 - Отправка/просмотр сообщений в чате 
 - Запись конференций и хранение в облаке
+
 
 ### Целевая аудитория  
 - Весь мир.
@@ -25,9 +27,15 @@ Zoom - платформа для видеоконференций.
   - Канада - 3.9%
   - Великобритания - 3.7%
   - Другие - 42.5%
+
+### Продуктовые метрики
+- 3.3 трлн. минут конференций в год [[4](https://www.demandsage.com/zoom-statistics/)] 
+- 45 минут  - средняя продолжительность конференции \[[5](https://teamstage.io/zoom-statistics/)]
   
 ## Источники
   1. https://www.semrush.com/website/zoom.us/overview/
   2. https://www.searchlogistics.com/learn/statistics/zoom-user-statistics/
   3. https://www.statista.com/statistics/1259936/distribution-of-zoomus-traffic-by-country/
+  4. https://www.demandsage.com/zoom-statistics/
+  5. https://teamstage.io/zoom-statistics/
    
