@@ -103,8 +103,7 @@ $\frac{1200 \times 225000}{1024} \approx 260000 \text{ Гбайт / сутки} 
 #### RPS
 
 Присоединение к конференции
-$
-\frac{\text{DAU} \times \text{кол-во конференций в день} }{86400} = \frac{350 \times 10^{6} \times  2}{86400} \approx 8100\ \text{RPS}
+$ \frac{\text{DAU} \times \text{кол-во конференций в день} }{86400} = \frac{350 \times 10^{6} \times  2}{86400} \approx 8100\ \text{RPS}
 $
 
 Загрузка чанка конференции
